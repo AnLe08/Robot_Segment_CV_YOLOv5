@@ -1,5 +1,3 @@
-Great! Dưới đây là bản **README.md** viết bằng tiếng Anh phù hợp cho repo “Robot\_Segment\_CV\_YOLOv5”, giúp làm nổi bật vai trò của computer vision và robotics, hướng tới các doanh nghiệp công nghiệp cần tự động hóa:
-
 ---
 
 # Robot Segment CV YOLOv5
